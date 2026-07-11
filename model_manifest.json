@@ -1,13 +1,13 @@
 {
   "schema_version": "1",
   "open_source": true,
-  "model_name": "riskscore-u3",
+  "model_name": "water-u3",
   "model_version": "1",
   "framework": "mlp-runtime",
   "license": "MIT",
   "repo_url": "https://github.com/SuperDev402/healthcare-u3",
   "repo_commit": "",
-  "artifact_sha256": "39b2e4f8da7255c53373e3efebf2b3811ca937abf5ee3bc957db13d6189ab175",
+  "artifact_sha256": "cd31c30919553abcf0e3f9c5b2a46c863fa7a4f2d34fa8b3b06be200bd0da01d",
   "artifact_basename": "current.joblib",
   "implementation_sha256": "ddbb9f9950745da4c295febbdf5ff809f0ae4fe293d56b95e59d1d459e5e0f95",
   "implementation_files": [
